@@ -38,7 +38,5 @@ The dataset has been processed and visualized using Python libraries like Pandas
   Genres: Music, Drama, War, Sci-Fi, History
 - **Most Active Year**: 2020
 
----
 
-## 📂 Project Structure
 
